@@ -1,0 +1,98 @@
+.featured-courses-heading{
+    /* Subheading */
+
+width: 1200px;
+height: 24px;
+
+/* Text md/Semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #1A906B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+}
+
+.featured-courses-subheading
+{
+width: 1200px;
+height: 44px;
+
+/* Display md/Semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height, or 122% */
+letter-spacing: -0.02em;
+
+color: #101828;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+.featured-courses-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    justify-content: center;
+    
+    background-color: white;
+}
+.featured-courses-supporting-text{
+
+width: 1200px;
+height: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+color: #667085;
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+}
+.featured-courses-headings{
+    margin-left: 8vw;
+}
+.course-cards{
+    margin-left: 10%;
+    
+    margin-top: 5%;
+}
+.view-all-button-wrapper{
+    margin-left: 60vw;
+}
+.view-all-button{
+    padding: 10px;
+    background-color: #1A906B;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+.view-all-button:hover{
+    cursor: pointer;
+}

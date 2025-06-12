@@ -1,0 +1,29 @@
+.all-courses-wrapper{
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin: 7px;
+}
+.all-category-courses-wrapper{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    
+}
+.allcourseshead{
+    margin-top: 25px;
+}
+.allcourseshead pre{
+font-size: xx-large;
+position: relative;
+left: 200px;
+font-weight: bolder;
+}
+.allcourseshead p{
+    font-size: medium;
+    position: relative;
+    left: 200px;
+}
+.all-courses-heading{
+    color: #36cf9f;
+}

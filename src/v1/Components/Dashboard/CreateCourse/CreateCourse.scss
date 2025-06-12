@@ -1,0 +1,20 @@
+.create-course-wrapper{
+    height: 80vh;
+    width: 70vw;
+    display: flex;
+    
+    margin-left: 10vw;
+    
+   
+}
+.create-course{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5vh;
+}
+.create-course-heading{
+    margin-left: 12vw;
+    margin-bottom: 5vh;
+    font-size: 25px;
+    font-weight: bold;
+}

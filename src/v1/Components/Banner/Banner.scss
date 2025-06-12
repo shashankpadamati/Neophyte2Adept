@@ -1,0 +1,95 @@
+.banner-wrapper{
+    background-color: linear-gradient(to right, #2c8369, #fff);
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    padding-top: 8vh;
+    gap: 15vw;
+    flex-wrap: wrap;
+    
+}
+.banner-information{
+    max-width: 35vw;
+}
+.black-heading{
+    font-size: 4rem;
+    font-weight: bold;
+    color: black;
+    letter-spacing: -0.5px;
+    text-transform: capitalize;
+
+}
+.banner-background-image{
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 50vh;
+}
+.green-heading{
+    font-weight: bold;
+    font-size: 4rem;
+    color: #20b486;
+    letter-spacing: -0.5px;
+    text-transform: capitalize;
+}
+.banner-front-image{
+    margin-top: 8vh;
+    height: 50vh;
+    background-color: transparent;
+    background-blend-mode: multiply;
+    position: absolute;
+    z-index: 10;
+}
+.banner-description{
+    /* Learn UI-UX Design skills with weekend UX . The latest online learning system and material that help your knowledge growing. */
+
+width: 470px;
+height: 58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180%;
+margin-top: 6rem;
+
+color: #646464;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+.banner-get-started{
+    margin-top: 5vh;
+}
+.banner-no-of-courses{
+    position: absolute;
+    width: 140px;
+    height: 60px;
+    left: 55vw;
+    top: 40vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding-top: 10px;
+    gap: 24.48px;
+    background: #F5F5F4;
+    border: 0.765px solid #20B486;
+    box-shadow: 0px 18.36px 38.25px rgba(0, 0, 0, 0.15);
+    border-radius: 18.36px;
+
+.banner-no-of-courses-icon{
+    height: 60px;
+}
+.banner-no-of-courses-description{
+    margin-top: -7px;
+    width: 50%;
+}
+.banner-no-of-courses-description-text{
+    font-size: 10px;
+}
+}

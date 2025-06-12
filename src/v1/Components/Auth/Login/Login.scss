@@ -1,0 +1,19 @@
+.login-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.login-form-heading{
+    margin-left: 40%;
+    padding-bottom: 10%;
+    font-size: 25px;
+    font-weight: bold;
+}
+.forgot-password-option{
+    // color: blue;
+}
+.forgot-password-option:hover{
+    cursor: pointer;
+    color: blue;
+}
+

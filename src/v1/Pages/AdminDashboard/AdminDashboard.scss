@@ -1,0 +1,244 @@
+.admin_dashboard-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 240px;
+    background-color: #cdebe1; /* Dark olive green */
+    color: white;
+    // padding: 20px;
+}
+
+.admin_dashboard-sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.admin_dashboard-sidebar li {
+    margin-bottom: 5px;
+    height: 70px;
+    text-align: center;
+    
+}
+
+.admin_dashboard-sidebar a {
+    color:black;
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+    padding: 10px;
+    border-radius: 10px;
+    height: 100%;
+}
+
+.admin_dashboard-sidebar li:hover {
+    background-color: #36cf9f;
+}
+
+.admin_dashboard-container {
+    margin-left: 200px;
+}
+
+.admin_dashboard-dashboard {
+    padding: 20px;
+}
+
+.admin_dashboard-sidebar-stats {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.admin_dashboard-stat-box {
+    background-color: #36cf9f; /* Light blueish grey */
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    margin-left:100px;
+    margin-right:100px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.admin_dashboard-stat-box:nth-child(odd) {
+    background-color: #36cf9f;
+}
+
+.admin_dashboard-stat-value {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.admin_dashboard-stat-label {
+    font-size: 14px;
+    color:black;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.admin_dashboard-data-table {
+    background-color: #E6E2D3; /* Light yellowish grey */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    margin-left:40px;
+}
+
+.admin_dashboard-data-table h2 {
+    margin-bottom: 10px;
+    color: #283618; /* Dark olive green */
+}
+
+.admin_dashboard-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    background-color: white;
+}
+
+.admin_dashboard-th, .admin_dashboard-td {
+    padding: 12px 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+.admin_dashboard-th {
+    background-color: #283618; /* Dark olive green */
+    color: white;
+}
+
+.admin_dashboard-change-password-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.admin_dashboard-form-group {
+    margin-bottom: 15px;
+}
+
+.admin_dashboard-label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.admin_dashboard-input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.admin_dashboard-button {
+    background-color: #36cf9f; /* Dark olive green */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    
+}
+
+.admin_dashboard-button:hover {
+    cursor: pointer;
+    background-color: #36cf9f;
+}
+.admin_dashboard-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    background-color: white;
+}
+
+.admin_dashboard-th, .admin_dashboard-td {
+    padding: 12px 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+.admin_dashboard-th {
+    background-color: #283618; /* Dark olive green */
+    color: white;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    background-color: white;
+}
+
+th, td {
+    padding: 12px 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #283618; /* Dark olive green */
+    color: white;
+}
+.admin_dashboard-change-password-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.admin_dashboard-form-group {
+    margin-bottom: 15px;
+}
+
+.admin_dashboard-label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.admin_dashboard-input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.admin_dashboard-button {
+    background-color: #283618; /* Dark olive green */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.admin_dashboard-button:hover {
+    cursor: pointer;
+    background-color: #36cf9f;
+}
+
+.active{
+    cursor: pointer;
+    background-color: #36cf9f;
+
+
+}
+#root{
+    height: 100vh;
+    width: 100vw;
+}
+.admin-dashboard-sidebar-header-logo{
+    margin-left: 4vw;
+    height: 7vh;
+    border-radius: 10px;
+}
+.admin-dashboard-sidebar-header-logo:hover{
+    cursor: pointer;
+  
+}

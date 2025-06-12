@@ -1,0 +1,4 @@
+export const SET_USER_DETAILS = 'SET_USER_DETAILS'
+export const SET_LOGIN = 'SET_LOGIN'
+export const FETCH_USER_DETAILS = 'FETCH_USER_DETAILS'
+export const LOGOUT_USER = 'LOGOUT_USER'

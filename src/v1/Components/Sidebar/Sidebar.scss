@@ -1,0 +1,134 @@
+
+
+.sidebar {
+    height: 100%;
+    background-color: #cdebe1;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    transition: 0.3s;
+    z-index: 1;
+    width: 20vw;
+    min-height: 100vh;
+    text-decoration: none;
+}
+.sidebar-header{
+    height: 7vh;
+    border-radius: 10px;
+}
+
+.sidebar a {
+    padding: 10px 15px;
+    text-align: left;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    display: flex;
+    align-items: center;
+    font-family: cursive;
+}
+
+
+.sidebar a .icon {
+    margin-right: 10px;
+}
+#logout{
+    margin-left: 5%;
+    align-content: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+#logout:hover{
+    cursor: pointer;
+}
+.title {
+    font-size: 24px;
+    color: aqua;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: cursive;
+    text-shadow: 0 0 10px aqua;
+}
+
+sub {
+    color: white;
+}
+
+/* .sidebar a:hover {
+    color: aqua;
+    text-shadow: 0 0 30px aqua;
+} */
+
+.dashboard-button {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+    color: aqua;
+    font-size: 24px;
+    z-index: 2;
+}
+
+.dashboard-button .icon {
+    margin-right: 10px;
+}
+
+
+.sidebar-active {
+    width: 250px;
+    left: 0;
+}
+.options{
+    margin-top: 10%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+}
+.content
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+
+}
+.content div{
+    width:400px;
+   
+}
+.options{
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+    align-items: center;
+}
+.options-parent{
+    max-height: 12vh;
+    text-decoration: none;
+    display: flex;
+    width: 270px;
+    height: 70px;
+   
+    align-content: center;
+    padding: 10px;
+
+}
+.sidebar-links{
+    border-radius: 10px;
+}
+.active{
+    cursor: pointer;
+    background-color: #36cf9f;
+
+
+}
+.sidebar-links:hover{
+    cursor: pointer;
+    background-color: #36cf9f;
+
+
+}

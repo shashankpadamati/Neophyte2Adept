@@ -1,0 +1,121 @@
+
+
+.Uploader {
+  margin-bottom: 1em;
+  &.SmallInput{        
+    font-size: 0.9em;
+  }
+  &__Head{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    &__Label {
+      margin-bottom: 0.2em;
+      font-weight: 500;
+    }
+    &__Edit {
+    }
+  }
+  &__DropZone {
+    background: white;
+    border: 2px dashed #{fade-out(black, 0.9)};
+    border-radius: 0.5em;
+    width: 100%;
+    min-height: 6em;
+    position: relative;
+    transition: border-color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    // @include appearOpacity(0.3s);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &.highlight {
+      border-color: fade-out(black, 0.75);
+      background: fade-out(black, 0.9);
+      box-shadow: inset 0 0 1em 1px #{fade-out(black, 0.95)};
+    }
+
+    &__TextContent {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      top: 0;
+      left: 0;
+      
+      
+      h3 {
+        text-align: center;
+        margin: 0;
+        padding: 0.25em;
+        font-size: 1.1em;
+        font-weight: 500;
+        color: fade-out(black, 0.8);
+      }
+    }
+  }
+}
+
+.BoxContent{
+  text-align: center;
+  font-size: 1.0em;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  &__Close{
+    position: absolute;
+    right: -1em;
+    top: -1em;
+    z-index: 1;
+    background: white;
+  }
+  &__Image{
+    max-height: 100%;
+    max-width: 100%;
+    border-radius: 0.5em;
+  }
+  &__Heading{
+      font-size: 0.8em;
+      // display: flex;
+      &__Browse{
+        font-size: 1.0em;
+        color: black;
+        font-weight: 400;
+        cursor: pointer;
+        padding: 0;
+      }
+    }
+  &__SubText{
+    &__Text{
+        text-align: center;
+        justify-content: center;
+        font-size: 0.7em;
+        color: black;
+        // cursor: pointer;
+    }
+  }
+}
+
+.DragAndDrop{
+  &__IconInput{
+    height: 1em;
+    width: 1em;
+  }
+  &__Label{
+    font-weight:500;
+  }
+  &__SubText{
+
+  }
+}
+
+.BrandSelection__Logo{
+  width: 50%;
+}

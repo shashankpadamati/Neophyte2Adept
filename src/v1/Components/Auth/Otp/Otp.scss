@@ -1,0 +1,14 @@
+
+.otp-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5vh;
+    .otp-input{
+        width: 100%;
+        margin: auto;
+        padding: 1%;
+        margin-bottom: 5%;
+    }
+}

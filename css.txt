@@ -1,0 +1,2415 @@
+position: absolute;
+width: 1821px;
+height: 935px;
+left: -141px;
+top: 0px;
+
+
+
+/* Group 519 */
+
+position: absolute;
+width: 1821px;
+height: 935px;
+left: -141px;
+top: 0px;
+
+
+
+/* Rectangle 328 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 49px;
+top: 0px;
+
+background: rgba(36, 187, 140, 0.02);
+
+
+/* blur */
+
+position: absolute;
+width: 1821px;
+height: 935px;
+left: -141px;
+top: 0px;
+
+
+
+/* Ellipse 154 */
+
+position: absolute;
+width: 490px;
+height: 490px;
+left: 1190px;
+top: 0px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(251, 206, 154, 0.16) 0%, rgba(251, 206, 154, 0) 100%);
+
+
+/* Ellipse 155 */
+
+position: absolute;
+width: 476px;
+height: 476px;
+left: -141px;
+top: 459px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(36, 187, 140, 0.12) 0%, rgba(36, 187, 140, 0) 100%);
+
+
+/* Group 499 */
+
+position: absolute;
+width: 414px;
+height: 492px;
+left: 1090px;
+top: 396px;
+
+
+
+/* Group 457 */
+
+position: absolute;
+width: 414px;
+height: 414px;
+left: 1090px;
+top: 474px;
+
+
+
+/* Ellipse 165 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 162px;
+height: 162px;
+left: 1216px;
+top: 600px;
+
+border: 1px solid rgba(32, 180, 134, 0.25);
+
+
+/* Ellipse 166 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 265px;
+height: 265px;
+left: 1165px;
+top: 549px;
+
+border: 1px solid rgba(32, 180, 134, 0.25);
+
+
+/* Ellipse 167 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 344px;
+height: 344px;
+left: 1125px;
+top: 509px;
+
+border: 1px solid rgba(32, 180, 134, 0.25);
+
+
+/* Ellipse 168 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 414px;
+height: 414px;
+left: 1090px;
+top: 474px;
+
+border: 1px solid rgba(32, 180, 134, 0.25);
+
+
+/* Group 434 */
+
+position: absolute;
+width: 203.07px;
+height: 453px;
+left: 1201px;
+top: 396px;
+
+
+
+/* Rectangle 326 */
+
+position: absolute;
+width: 203.07px;
+height: 453px;
+left: 1201px;
+top: 396px;
+
+background: linear-gradient(176.15deg, #BC5CDE 3.16%, #A241C5 113.85%);
+border-radius: 118.357px;
+
+
+/* Group 498 */
+
+position: absolute;
+width: 414px;
+height: 489px;
+left: 43px;
+top: 108px;
+
+
+
+/* Group 458 */
+
+position: absolute;
+width: 414px;
+height: 414px;
+left: 43px;
+top: 183px;
+
+
+
+/* Ellipse 165 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 162px;
+height: 162px;
+left: 169px;
+top: 309px;
+
+border: 1px solid rgba(32, 180, 134, 0.25);
+
+
+/* Ellipse 166 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 265px;
+height: 265px;
+left: 118px;
+top: 258px;
+
+border: 1px solid rgba(32, 180, 134, 0.25);
+
+
+/* Ellipse 167 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 344px;
+height: 344px;
+left: 78px;
+top: 218px;
+
+border: 1px solid rgba(32, 180, 134, 0.25);
+
+
+/* Ellipse 168 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 414px;
+height: 414px;
+left: 43px;
+top: 183px;
+
+border: 1px solid rgba(32, 180, 134, 0.25);
+
+
+/* Group 435 */
+
+position: absolute;
+width: 198.14px;
+height: 442px;
+left: 151px;
+top: 108px;
+
+
+
+/* Rectangle 326 */
+
+position: absolute;
+width: 198.14px;
+height: 442px;
+left: 151px;
+top: 108px;
+
+background: linear-gradient(176.15deg, #BC5CDE 3.16%, #A241C5 113.85%);
+border-radius: 115.483px;
+
+
+/* Group 515 */
+
+position: absolute;
+width: 1212px;
+height: 535px;
+left: 113px;
+top: 226px;
+
+
+
+/* Sketch-annotation-element-stroke-abstract-highlight-bling-line-1 */
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1080px;
+top: 248px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 13.33%;
+right: 62.95%;
+top: 19.01%;
+bottom: 41.48%;
+
+border: 5.91667px solid #FBCF9A;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.73%;
+right: 19.91%;
+top: 17.92%;
+bottom: 31.27%;
+
+border: 5.91667px solid #FBCF9A;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.21%;
+right: 13.55%;
+top: 61.33%;
+bottom: 17.88%;
+
+border: 5.91667px solid #FBCF9A;
+
+
+/* Ellipse 156 */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 1303px;
+top: 302px;
+
+background: linear-gradient(171.54deg, #FED19C 6.47%, #DEB483 156.12%);
+
+
+/* Ellipse 158 */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 409px;
+top: 739px;
+
+background: rgba(32, 180, 134, 0.6);
+
+
+/* Ellipse 159 */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 123px;
+top: 226px;
+
+background: #20B486;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Frame 7 */
+
+position: absolute;
+width: 1440px;
+height: 100px;
+left: 50px;
+top: 0px;
+
+
+
+/* Rectangle 329 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+
+
+/* Group 297 */
+
+position: absolute;
+width: 1440px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 50px;
+
+position: absolute;
+width: 1205.83px;
+height: 72px;
+left: 120px;
+top: 28px;
+
+
+
+/* Frame 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+width: 916.83px;
+height: 72px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 55px;
+
+width: 501.83px;
+height: 72px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 2 */
+
+width: 79.83px;
+height: 72px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Input field */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 367px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* _Input field base */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 367px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Input with label */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 367px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+display: none;
+width: 36px;
+height: 20px;
+
+/* Text sm/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+/* Gray/700 */
+color: #344054;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Input */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 14px;
+gap: 8px;
+
+width: 367px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #D0D5DD;
+/* Shadow/xs */
+box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+isolation: isolate;
+
+width: 339px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* search */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #98A2B3;
+
+
+/* Text */
+
+width: 311px;
+height: 24px;
+
+/* Text md/Normal */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #667085;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 111px;
+height: 36px;
+left: 238px;
+top: calc(50% - 36px/2);
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* _Button base */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+
+width: 111px;
+height: 36px;
+
+background: #F2FFFB;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 51px;
+height: 20px;
+
+/* Text sm/Semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+color: #20B486;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* chevron-down */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 2px solid #20B486;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 385px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Home */
+
+width: 46px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #1A906B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About us */
+
+width: 69px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #101828;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Courses */
+
+width: 64px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #101828;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Contact us */
+
+width: 84px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #101828;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* FAQ’s */
+
+width: 42px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #101828;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 239px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Menu */
+
+width: 52px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Sign in */
+
+position: absolute;
+width: 52px;
+height: 24px;
+left: 0px;
+top: 8px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #101828;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 167px;
+height: 40px;
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* _Button base */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 16px;
+gap: 8px;
+
+width: 167px;
+height: 40px;
+
+background: #20B486;
+border: 1px solid #20B486;
+/* Shadow/xs focused 4px primary-100 */
+box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05), 0px 0px 0px 4px #F4EBFF;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 135px;
+height: 20px;
+
+/* Text sm/Semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mask Group */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 50px;
+top: 0px;
+
+
+
+/* Rectangle 330 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 50px;
+top: 0px;
+
+
+
+/* placeholder */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 495.72px;
+height: 495.72px;
+left: 817.44px;
+top: 141px;
+
+border: 0.765px solid #20B486;
+border-radius: 688.5px;
+
+
+/* placeholder */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 495px;
+height: 495px;
+left: 839.62px;
+top: 162.42px;
+
+background: #20B486;
+border: 0.765px solid #20B486;
+border-radius: 688.5px;
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 42.84px;
+height: 42.84px;
+left: 849.56px;
+top: 577.05px;
+
+background: #20B486;
+border: 0.765px solid #20B486;
+
+
+/* 02 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 18.36px;
+gap: 12.24px;
+
+position: absolute;
+width: 144.72px;
+height: 189.2px;
+left: 1226px;
+top: 143px;
+
+background: #F5F5F4;
+border: 0.765px solid #20B486;
+box-shadow: 0px 18.36px 38.25px rgba(0, 0, 0, 0.15);
+border-radius: 18.36px;
+
+
+/* Progress circle */
+
+width: 80px;
+height: 80px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ring */
+
+position: absolute;
+left: 4px;
+right: 4px;
+top: 4px;
+bottom: 4px;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 8px solid #EAECF0;
+
+
+/* Line */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 8px solid #20B486;
+
+
+/* 5K+ */
+
+width: 50px;
+height: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #101828;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Online Courses */
+
+width: 108px;
+height: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #101828;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Mask group */
+
+position: absolute;
+width: 495px;
+height: 495px;
+left: 840px;
+top: 162px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 495px;
+height: 495px;
+left: 840px;
+top: 162px;
+
+background: #D9D9D9;
+
+
+/* young-student-woman-wearing-denim-jacket-eyeglasses-holding-colorful-folders-showing-thumb-up-pink-transformed 1 */
+
+position: absolute;
+width: 366px;
+height: 432px;
+left: 886px;
+top: 230px;
+
+background: url(young-student-woman-wearing-denim-jacket-eyeglasses-holding-colorful-folders-showing-thumb-up-pink-transformed.png);
+
+
+/* 03 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 18.36px;
+gap: 24.48px;
+
+position: absolute;
+width: 214.16px;
+height: 90.84px;
+left: 747px;
+top: 317px;
+
+background: #F5F5F4;
+border: 0.765px solid #20B486;
+box-shadow: 0px 18.36px 38.25px rgba(0, 0, 0, 0.15);
+border-radius: 18.36px;
+
+
+/* icon */
+
+width: 48.96px;
+height: 48.96px;
+
+filter: drop-shadow(0px 18.36px 38.25px rgba(13, 12, 56, 0.15));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* placeholder */
+
+position: absolute;
+left: 8.57%;
+right: 68.57%;
+top: 23.05%;
+bottom: 23.05%;
+
+background: #20B486;
+border-radius: 12.24px;
+
+
+/* Online Education */
+
+position: absolute;
+left: 11.67%;
+right: 71.52%;
+top: 29.72%;
+bottom: 30.65%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.46%;
+right: 6.46%;
+top: 15%;
+bottom: 21.25%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.46%;
+right: 1.66%;
+top: 69.79%;
+bottom: 15%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.75%;
+right: 65.21%;
+top: 26.04%;
+bottom: 60%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.08%;
+right: 63.75%;
+top: 24.38%;
+bottom: 58.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.75%;
+right: 65.21%;
+top: 48.12%;
+bottom: 37.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.08%;
+right: 63.75%;
+top: 46.67%;
+bottom: 36.25%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.79%;
+right: 17.92%;
+top: 31.25%;
+bottom: 65.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.79%;
+right: 17.92%;
+top: 53.54%;
+bottom: 43.33%;
+
+background: #FFFFFF;
+
+
+/* content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6.12px;
+
+width: 104px;
+height: 54.12px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 2K+ */
+
+width: 49px;
+height: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #101828;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Video Courses */
+
+width: 104px;
+height: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #101828;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 01 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18.36px;
+gap: 12.24px;
+
+position: absolute;
+width: 164.92px;
+height: 85.68px;
+left: 1194px;
+top: 533px;
+
+background: #F5F5F4;
+border: 0.765px solid #20B486;
+box-shadow: 0px 18.36px 38.25px rgba(0, 0, 0, 0.15);
+border-radius: 18.36px;
+
+
+/* icon */
+
+width: 48.96px;
+height: 48.96px;
+
+filter: drop-shadow(0px 18.36px 38.25px rgba(13, 12, 56, 0.15));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* placeholder */
+
+position: absolute;
+left: 11.13%;
+right: 59.18%;
+top: 21.43%;
+bottom: 21.43%;
+
+background: #20B486;
+border-radius: 12.24px;
+
+
+/* Board */
+
+position: absolute;
+left: 16.7%;
+right: 64.75%;
+top: 32.14%;
+bottom: 32.14%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.58%;
+right: 1.46%;
+top: 1.46%;
+bottom: 32.29%;
+
+background: #F5F5F4;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.58%;
+right: 11.25%;
+top: 40.83%;
+bottom: 1.46%;
+
+background: #F5F5F4;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.67%;
+right: 39.58%;
+top: 11.46%;
+bottom: 23.13%;
+
+background: #F5F5F4;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.33%;
+right: 50.83%;
+top: 40.63%;
+bottom: 56.25%;
+
+background: #F5F5F4;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.33%;
+right: 50.83%;
+top: 51.25%;
+bottom: 45.63%;
+
+background: #F5F5F4;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.33%;
+right: 50.83%;
+top: 62.08%;
+bottom: 34.79%;
+
+background: #F5F5F4;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 67px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Tutors */
+
+width: 45px;
+height: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #101828;
+
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 250+ */
+
+width: 67px;
+height: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #101828;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 50px;
+
+position: absolute;
+width: 573px;
+height: 510px;
+left: 170px;
+top: 200px;
+
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 36px;
+
+width: 573px;
+height: 420px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 573px;
+height: 324px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* up your skills to advance your career path */
+
+width: 573px;
+height: 246px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 82px;
+/* or 128% */
+letter-spacing: -0.5px;
+text-transform: capitalize;
+
+color: #101828;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Learn UI-UX Design skills with weekend UX . The latest online learning system and material that help your knowledge growing. */
+
+width: 487px;
+height: 58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180%;
+/* or 29px */
+
+color: #646464;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 9 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 28px;
+
+width: 350px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 157px;
+height: 60px;
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* _Button base */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 28px;
+gap: 8px;
+
+width: 157px;
+height: 60px;
+
+background: #20B486;
+border: 1px solid #20B486;
+/* Shadow/xs focused 4px primary-100 */
+box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05), 0px 0px 0px 4px #F4EBFF;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 101px;
+height: 28px;
+
+/* Text lg/Semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 165px;
+height: 60px;
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* _Button base */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 28px;
+gap: 8px;
+
+width: 165px;
+height: 60px;
+
+background: #EAFFF9;
+border: 1px solid #EAFFF9;
+/* Shadow/xs */
+box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 109px;
+height: 28px;
+
+/* Text lg/Semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #3BC49A;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 34px;
+
+width: 572px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 10 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 163px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 518 */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Speak */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 4px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.34%;
+right: 4.33%;
+top: 1.56%;
+bottom: 9.79%;
+
+background: #F1BF5A;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.33%;
+right: 69.83%;
+top: 72.6%;
+bottom: 1.56%;
+
+background: #F1BF5A;
+
+
+/* Public Speaking */
+
+width: 121px;
+height: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 40px;
+/* identical to box height, or 250% */
+
+color: rgba(29, 41, 57, 0.7);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 11 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 166px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Briefcase */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.88%;
+right: 1.88%;
+top: 1.56%;
+bottom: 1.56%;
+
+background: #F4876B;
+
+
+/* Career-Oriented */
+
+width: 124px;
+height: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 40px;
+/* identical to box height, or 250% */
+
+color: rgba(29, 41, 57, 0.7);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 12 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 175px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* idea */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Layer 2 */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #B4708D;
+
+
+/* Creative Thinking */
+
+width: 133px;
+height: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 40px;
+/* identical to box height, or 250% */
+
+color: rgba(29, 41, 57, 0.7);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 55px;
+
+position: absolute;
+width: 1127.14px;
+height: 70px;
+left: 166px;
+top: 783px;
+
+
+
+/* 250+ Collaboration */
+
+width: 178px;
+height: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 34px;
+/* or 113% */
+
+color: #20B486;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 60px;
+
+width: 894.14px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group */
+
+width: 153.14px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 82.87%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Codecov (logo — Black) */
+
+width: 186.25px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.03%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* UserTesting (logo — Black) */
+
+width: 140.25px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 56.46%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.79%;
+right: 46.31%;
+top: 22.16%;
+bottom: 38.12%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 53.46%;
+right: 37.77%;
+top: 27.46%;
+bottom: 37.47%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 62.79%;
+right: 30.74%;
+top: 27.11%;
+bottom: 37.67%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 69.9%;
+right: 25.73%;
+top: 19.41%;
+bottom: 37.92%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.72%;
+right: 22.22%;
+top: 15.51%;
+bottom: 38.12%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 79.34%;
+right: 12.91%;
+top: 27.41%;
+bottom: 38.12%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 88.28%;
+right: 2.78%;
+top: 27.21%;
+bottom: 26.71%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 97.85%;
+right: 0.15%;
+top: 27.71%;
+bottom: 64.48%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Vector */
+
+position: absolute;
+left: 98.45%;
+right: 0.68%;
+top: 29.47%;
+bottom: 66.28%;
+
+background: rgba(0, 0, 0, 0.4);
+
+
+/* Magic Leap (logo — Black) */
+
+width: 234.5px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.1%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(0, 0, 0, 0.4);
+
+----------------------------------------
+/* up your skills to advance your career path */
+
+width: 573px;
+height: 246px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 82px;
+/* or 128% */
+letter-spacing: -0.5px;
+text-transform: capitalize;
+
+color: #101828;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+/* Learn UI-UX Design skills with weekend UX . The latest online learning system and material that help your knowledge growing. */
+
+width: 487px;
+height: 58px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180%;
+/* or 29px */
+
+color: #646464;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+---------------------------------------
+/* Vector */
+
+width: 5px;
+height: 10px;
+
+border: 1.5px solid #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+----------------------------
+/* Frame 22 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 30px 40px;
+gap: 22px;
+
+width: 373px;
+height: 243px;
+
+background: #FFFFFF;
+border: 1px solid rgba(216, 216, 216, 0.4);
+box-shadow: 0px 67.1144px 109.061px rgba(0, 0, 0, 0.05);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+--------------------------------------------------------------------------
+
+/* Frame 408 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+position: absolute;
+width: 1440px;
+height: 3875px;
+left: 26px;
+top: 961px;
+
+---------------------
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 64px;
+
+width: 1216px;
+height: 204px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+---------------------------------------
+/* Text */
+
+width: 73px;
+height: 24px;
+
+/* Text md/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #EAECF0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;

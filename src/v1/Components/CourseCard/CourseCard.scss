@@ -1,0 +1,97 @@
+
+#card
+{
+    display: inline-flex;
+    flex-direction:column;
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
+    justify-content: center;
+    align-items: center;
+    width:280px;
+    height:380px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.5) 0px 7px 29px 0px;
+    margin-bottom: 2vh;
+}
+#cardimage
+{
+    width: 70%;
+    height:50%;
+    height: 30vh;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+#cardcontent
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height:50%;
+    width:100%;
+    padding:3px 15px 4px 15px;
+    background-color: rgb(243, 241, 241);
+    border-radius: 0px 0px 10px 10px;
+    
+}
+#coursename
+{
+    display:flex;
+    flex-direction:row;
+    margin:2px;
+    column-gap: 5px;
+    justify-content: space-between;
+    padding-right: 0%;
+    font-size:x-large;
+    font-weight: bold;
+}
+#coursename img
+{
+    width:5%;
+    border-radius: 50%;
+}
+#numrate
+{
+    color:yellowgreen;
+}
+#Userdetails
+{
+    display:flex;
+    flex-direction:row;
+    width: 100%;
+    align-items: center;
+}
+#u1
+{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10%;
+    width:60%;
+    
+}
+
+#coursefee
+{
+    width:40%;
+   text-align: center;
+}
+#Userdetails img
+{
+    height: 30px;
+    border-radius: 45%;
+}
+
+.author-price{
+  font-size: 12px
+}
+.coursedetail{
+    font-size: 13px;
+}
+.course-title{
+    font-size: 16px;
+}
+.course-description{
+    font-size: 14px
+}
+#cardcontent:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+
+
+.RoundButton{
+    width: 1.8em;
+    height: 1.8em;
+    box-shadow: 0px 0px 3px white;
+    border: 2px solid white;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    img{
+        height: 1em;
+    }
+}

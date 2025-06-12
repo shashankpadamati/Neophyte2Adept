@@ -1,0 +1,10 @@
+*{
+  margin: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+  
+}
+.featured-courses-heading{
+  margin-left: 15vw;
+  margin-top: 5vh;
+}

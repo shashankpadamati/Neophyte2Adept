@@ -1,0 +1,29 @@
+.instructor-course-card-wrapper{
+    display: flex;
+    height: 10vh;
+    width: 65%;
+    justify-content: space-around;
+    border: 1px solid grey;
+    border-radius: 10px;
+    align-items: center;
+
+}
+.instructor-course-thumbnail{
+    height: 7vh;
+}
+.instructor-course-details-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.instructor-course-price{
+    color: blue;
+    margin-left: 8px;
+}
+.instructor-course-edit{
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.instructor-course-edit:hover{
+    cursor: pointer;
+}

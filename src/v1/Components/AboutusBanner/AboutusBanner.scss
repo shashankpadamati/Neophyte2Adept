@@ -1,0 +1,26 @@
+.about-us-banner-wrapper{
+    display: flex;
+    justify-content: space-between;
+    gap: 13vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 10vh;
+    margin-bottom: 7vh;
+}
+.about-us-banner-image{
+    width: 30vw;
+}
+.about-us-banner-middle-div{
+    display: flex;
+    flex-direction: column;
+    gap: 5vh;
+    .about-us-banner-description{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 26px;
+
+    }
+
+}
